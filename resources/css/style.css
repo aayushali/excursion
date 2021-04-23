@@ -1,0 +1,33 @@
+#top {
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+nav , a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+body {
+    background-color: black;
+    text-align: center;
+}
+#video-caption , #arrival-date-text {
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+#excursion-description, footer {
+    font-family: Verdana;
+    font-size: 21px;
+    color: gray;
+}
+footer {
+    text-align: right;
+
+}
